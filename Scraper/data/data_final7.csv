@@ -1,0 +1,308 @@
+city;neighbourhood;street;price;House No.;Area;Number of rooms;Floor;No. of floors;Build year;Building type;Heating system;Equipment;Building Energy Efficiency Class;Description;Additional premises;Additional Equipment;Security;Nearest kindergarten;Nearest educational institution;Nearest shop;Public transport stop;crime;Object;Flat No.
+Vilnius;Burbiškės;Burbiškių g.;194 000 € (4 850 €/m²);6B;40 m²;2;2;4;2022;Brick;Central thermostat;Fully equipped;A+;New sewage system New electrical installation Private yard Kitchen merged with room;Storeroom Terrace Parking space Closet;Conditioner Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Plastic pipes Dish washer Bath Recuperation;Steel doors Code door lock Video surveillance;680 m;600 m;750 m;930 m;1;;
+Vilnius;Markučiai;Manufaktūrų g.;198 000 € (5 503 €/m²);7;35,98 m²;2;5;6;2023;Brick;Central thermostat;Fully equipped;;;;;;290 m;610 m;130 m;310 m;4;;
+Vilnius;Baltupiai;Kalvarijų g.;124 000 € (2 696 €/m²);270;46 m²;1;1;16;2006;Brick;Central thermostat;Fully equipped;;;;;;410 m;370 m;590 m;110 m;"35,88 €/month
+~ 0,78 €/m²";;
+Vilnius;Užupis;Polocko g.;485 000 € (3 496 €/m²);;138,73 m²;3;2;2;1940 construction, 2021 renovation;Brick;Gas;Fully equipped;;;;;;370 m;200 m;260 m;60 m;8;;
+Vilnius;Senamiestis;Aguonų g.;409 000 € (7 502 €/m²);;54,52 m²;2;4;6;2019;Brick;Central thermostat;Fully equipped;;High ceiling Private yard;Storeroom Terrace Parking space;Conditioner Furniture Floor heating system Recuperation;Steel doors Code door lock;300 m;170 m;190 m;170 m;"20,72 €/month
+~ 0,38 €/m²";;
+Vilnius;Senamiestis;Aguonų g.;494 225 € (5 200 €/m²);;95,04 m²;4;1;2;2025;Brick;Central;Partially equipped;;;;;;310 m;80 m;290 m;270 m;34;Accommodation, recreation purpose;
+Vilnius;Senamiestis;Aguonų g.;390 360 € (6 000 €/m²);;65,06 m²;3;1;2;2025;Brick;Central;Partially equipped;;;;;;310 m;80 m;290 m;270 m;34;;
+Vilnius;Senamiestis;Aguonų g.;608 489 € (6 200 €/m²);;98,14 m²;4;1;2;2025;Brick;Central;Partially equipped;;Has elevator;;;;310 m;80 m;290 m;270 m;34;;
+Vilnius;Antakalnis;Duburio g.;95 000 € (2 182 €/m²);;43,53 m²;2;2;4;2023;Brick;Gas;Partially equipped;A+;Kitchen merged with room;Balcony;;Steel doors Code door lock;1,6 km;1,7 km;1,4 km;410 m;0;;
+Vilnius;Paupys;Paupio g.;750 000 € (3 462 €/m²);33;216,66 m²;5;1;2;1940;Brick;Electric, solid fuel, other;Fully equipped;;Private entrance High ceiling Two-floor flat Private yard Internet Cable television Kitchen merged with room;Terrace;Furniture Kitchen furniture Fireplace Bath;Steel doors;440 m;250 m;120 m;110 m;8;;
+Vilnius;Senamiestis;Pylimo g.;319 000 € (4 691 €/m²);20;68 m²;3;3;3;1940;Brick;Gas;Fully equipped;;High ceiling New sewage system New electrical installation Kitchen merged with room;;Furniture Kitchen furniture Stove;Steel doors Alarm system Code door lock;180 m;90 m;260 m;40 m;29;;
+Vilnius;Žirmūnai;Kareivių g.;"Price decreased 5,9%
+32 000 € (2 133 €/m²)";;15 m²;1;5;5;1977;Brick;Central;Fully equipped;;;;;;310 m;630 m;110 m;160 m;"18,15 €/month
+~ 1,21 €/m²";;
+Vilnius;Senamiestis;Gaono g.;371 500 € (6 092 €/m²);;60,98 m²;2;2;3;2008;Brick;Central thermostat;Fully equipped;;;;;;410 m;190 m;160 m;250 m;25;;
+Vilnius;Naujamiestis;J. Basanavičiaus g.;"Price decreased 2,9%
+67 000 € (1 908 €/m²)";37;35,12 m²;2;0;3;1940;Brick;Central;Fully equipped;;;;;;200 m;400 m;270 m;50 m;16;;
+Vilnius;Šnipiškės;Herkaus Manto g.;69 000 € (4 437 €/m²);;15,55 m²;1;2;4;2021 construction, 2021 renovation;Block house;Electric;Fully equipped;;Kitchen merged with room;Terrace;Washing machine Furniture;Steel doors Code door lock;390 m;430 m;190 m;120 m;17;;
+Vilnius;Naujamiestis;Kauno g.;80 000 € (4 444 €/m²);36;18 m²;1;3;3;1978 construction, 2023 renovation;Brick;Central;Fully equipped;;;;;;300 m;50 m;200 m;40 m;12;;
+Vilnius;Pilaitė;Pilkalnio g.;142 000 € (4 048 €/m²);41;35,08 m²;2;1;4;2019;Brick;Central;Fully equipped;A+;Private entrance New sewage system New electrical installation Private yard Internet Kitchen merged with room;Terrace Parking space;Furniture Refrigerator Floor heating system Kitchen furniture Stove Shower;Steel doors Code door lock;800 m;790 m;220 m;320 m;0;;
+Vilnius;Senamiestis;Šv. Stepono g.;108 000 € (1 788 €/m²);;60,4 m²;2;1;3;1940;Brick;Gas;Fully equipped;;Internet High ceiling Kitchen merged with room;Cellar Closet;Bath;;180 m;120 m;50 m;100 m;44;;
+Vilnius;Viršuliškės;Viršilų g.;"Price decreased 1,2%
+170 000 € (4 146 €/m²)";6;41 m²;2;16;21;2024;Monolithic;Central thermostat;Fully equipped;A+;High ceiling New sewage system New electrical installation Private yard Kitchen merged with room;Storeroom Balcony Terrace Parking space;Conditioner Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Plastic pipes Dish washer Shower Recuperation;Steel doors Code door lock Video surveillance;380 m;280 m;680 m;190 m;12;;
+Vilnius;Šeškinė;Ozo g.;"Price decreased 3,6%
+106 000 € (2 105 €/m²)";28;50,35 m²;2;4;9;1982;Block house;Central;Fully equipped;;Separate bathroom and WC;Storeroom Balcony Cellar;Washing machine Furniture Refrigerator Stove Bath;Steel doors Code door lock;430 m;270 m;370 m;140 m;7;;
+Vilnius;Žirmūnai;Žirmūnų g.;111 000 € (3 700 €/m²);68;30 m²;2;2;3;1960 construction, 2023 renovation;Brick;Central thermostat;Fully equipped;;High ceiling Two-floor flat New sewage system New electrical installation Kitchen merged with room;;Washing machine Furniture Refrigerator Kitchen furniture Stove Plastic pipes Shower;Steel doors Code door lock;190 m;260 m;150 m;100 m;11;;
+Vilnius;Senamiestis;Aguonų g.;196 700 € (4 642 €/m²);11;42,37 m²;2;2;6;2019;Monolithic;Central thermostat;Fully equipped;;Kitchen merged with room;Storeroom Balcony;Conditioner Furniture Recuperation;Video surveillance;270 m;70 m;310 m;270 m;33;;
+Vilnius;Pilaitė;Tolminkiemio g.;249 000 € (3 466 €/m²);35;71,84 m²;3;5;5;2019;Brick;Central thermostat;Fully equipped;;New sewage system New electrical installation Internet Cable television Kitchen merged with room;Balcony Terrace Parking space;Conditioner Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Plastic pipes Dish washer Bath Recuperation;Steel doors Alarm system Code door lock;460 m;460 m;450 m;290 m;"26,58 €/month
+~ 0,37 €/m²";;
+Vilnius;Rasos;Liepkalnio g.;235 000 € (3 444 €/m²);;68,23 m²;3;3;5;2008;Brick;Central;Fully equipped;;;;;;410 m;350 m;310 m;80 m;12;;
+Vilnius;Naujamiestis;Savanorių pr.;550 000 € (6 180 €/m²);1;89 m²;2;23;25;2007;Brick;Central;Fully equipped;;;;;;320 m;140 m;70 m;140 m;"112,14 €/month
+~ 1,26 €/m²";;
+Vilnius;Žvėrynas;Pušų g.;41 805 € (1 500 €/m²);;27,87 m²;1;3;3;1940;Brick;Central;Partially equipped;;;;;;410 m;290 m;250 m;110 m;1;;
+Vilnius;Naujamiestis;Algirdo g.;"Price increased 6,3%
+184 673 € (2 609 €/m²)";85;70,79 m²;2;1;8;2021;Brick;Central thermostat;Partially equipped;A+;Private entrance;;Recuperation;Video surveillance;520 m;640 m;350 m;270 m;"29,02 €/month
+~ 0,41 €/m²";;
+Vilnius;Santariškės;J. Franko g.;350 000 € (2 926 €/m²);;119,61 m²;4;3;4;2006;Brick;Central thermostat;Fully equipped;;High ceiling Two-floor flat Separate bathroom and WC Kitchen merged with room;Balcony;Furniture Conditioner Washing machine Bath;Steel doors Code door lock;130 m;1,8 km;80 m;290 m;2;;
+Vilnius;Pilaitė;Įsruties g.;139 900 € (1 987 €/m²);8;70,39 m²;3;4;5;1992;Block house;Central;Fully equipped;;Private yard Internet Cable television;Cellar;Washing machine Furniture Refrigerator Kitchen furniture Stove Bath;Steel doors Code door lock;110 m;160 m;130 m;220 m;5;;
+Vilnius;Naujamiestis;Algirdo g.;173 755 € (2 600 €/m²);85;66,82 m²;2;1;8;2021;Brick;Central thermostat;Partially equipped;A+;Private entrance Private yard;;Recuperation;Code door lock Video surveillance;520 m;640 m;350 m;270 m;"27,40 €/month
+~ 0,41 €/m²";;
+Vilnius;Žirmūnai;Rinktinės g.;135 000 € (2 109 €/m²);;64 m²;3;1;9;1976;Block house;Central;Fully equipped;;Private yard Internet Cable television Kitchen merged with room;Balcony Cellar Closet;Washing machine Furniture Refrigerator Kitchen furniture Stove Bath;Steel doors Code door lock;410 m;260 m;160 m;30 m;"75,52 €/month
+~ 1,18 €/m²";;
+Vilnius;Šnipiškės;Verkių g.;"Price decreased 5,4%
+175 000 € (3 015 €/m²)";;58,05 m²;2;1;2;1958;Brick;Central;Fully equipped;;;;;;300 m;150 m;160 m;70 m;"72,56 €/month
+~ 1,25 €/m²";;
+Vilnius;Bajorai;Salaspilio g.;164 994 € (3 173 €/m²);7;52 m²;2;1;4;2021;Brick;Central thermostat;Fully equipped;A+;New sewage system New electrical installation Internet Cable television Kitchen merged with room;Terrace Parking space;Washing machine Refrigerator Floor heating system Kitchen furniture Stove Plastic pipes Bath Recuperation;Steel doors Code door lock;1,3 km;790 m;780 m;620 m;0;;
+Vilnius;Senamiestis;Didžioji g.;179 000 € (4 519 €/m²);22A;39,61 m²;2;2;2;1940;Brick;Central thermostat;Partially equipped;;High ceiling New sewage system New electrical installation Private yard;;;;420 m;70 m;70 m;140 m;26;;
+Vilnius;Antakalnis;Vytauto Žalakevičiaus g.;"Price increased 0,8%
+267 000 € (4 154 €/m²)";4;64,27 m²;2;2;6;2014;Brick;Central thermostat;Fully equipped;;Private yard Internet Cable television Kitchen merged with room;Storeroom Balcony Terrace Parking space Closet;Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Dish washer Bath;Steel doors Alarm system Video surveillance;550 m;520 m;270 m;260 m;3;;
+Vilnius;Žvėrynas;Blindžių g.;69 000 € (2 046 €/m²);;33,72 m²;2;1;2;1940;Wooden house;Gas;Fully equipped;;;;;;290 m;180 m;310 m;200 m;1;;
+Vilnius;Šnipiškės;A. Juozapavičiaus g.;"Price decreased 1,3%
+444 000 € (4 047 €/m²)";3;109,72 m²;3;2;7;2005;Brick;Central;Fully equipped;;Separate bathroom and WC Private yard Internet Cable television Kitchen merged with room;Terrace;Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Dish washer Shower Bath;Steel doors Alarm system Code door lock;250 m;280 m;70 m;130 m;25;;
+Vilnius;Senamiestis;A. Goštauto g.;449 900 € (3 990 €/m²);2;112,76 m²;5;5;6;1960;Brick;Central;Fully equipped;;;;;;420 m;420 m;240 m;10 m;18;;
+Vilnius;Baltupiai;Didlaukio g.;110 000 € (1 719 €/m²);;64 m²;3;6;9;1978;Block house;Central;Fully equipped;;Separate bathroom and WC;Storeroom Balcony Cellar;Washing machine Refrigerator Bath;Steel doors;240 m;170 m;120 m;50 m;7;;
+Vilnius;Senamiestis;Švitrigailos g.;99 972 € (3 570 €/m²);;28 m²;1;4;5;1975;Brick;Central;Fully equipped;;New sewage system New electrical installation Internet Cable television;Cellar;Washing machine Furniture Refrigerator Kitchen furniture Stove Plastic pipes Shower;Steel doors Code door lock;120 m;100 m;120 m;50 m;"33,88 €/month
+~ 1,21 €/m²";;
+Vilnius;Senamiestis;Vilniaus g.;420 000 € (5 862 €/m²);;71,65 m²;3;4;4;2008;Brick;Gas;Fully equipped;;Private yard Internet New sewage system;;Fireplace Furniture Conditioner Refrigerator Kitchen furniture Dish washer Shower Bath;Code door lock;140 m;50 m;110 m;20 m;25;;
+Vilnius;Fabijoniškės;Vėtrungių g.;139 000 € (2 610 €/m²);;53,26 m²;2;4;12;2006;Brick;Central thermostat;Fully equipped;;;;;;740 m;670 m;270 m;170 m;10;;
+Vilnius;Lazdynėliai;Neužmirštuolių g.;225 000 € (1 604 €/m²);;140,3 m²;4;4;5;1993;Brick;Central;Fully equipped;;;;;;250 m;880 m;60 m;80 m;0;;
+Vilnius;Naujamiestis;Kauno g.;109 000 € (3 695 €/m²);30;29,5 m²;2;4;4;1970;Brick;Aerothermal, other;Fully equipped;;High ceiling Two-floor flat New sewage system New electrical installation Private yard Cable television Kitchen merged with room;Closet;Conditioner Washing machine Furniture Refrigerator Kitchen furniture Stove Dish washer Bath Recuperation;Steel doors Code door lock Video surveillance;460 m;270 m;110 m;70 m;13;;
+Vilnius;Naujamiestis;Savanorių pr.;460 000 € (4 169 €/m²);1;110,34 m²;4;17;27;2009;Monolithic;Central thermostat;Fully equipped;;High ceiling Separate bathroom and WC Internet Cable television Kitchen merged with room;Balcony Parking space;Conditioner Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Dish washer Shower Bath;Steel doors Video surveillance Guard;320 m;140 m;70 m;140 m;"139,03 €/month
+~ 1,26 €/m²";;
+Vilnius;Senamiestis;Trakų g.;689 999 € (8 042 €/m²);14;85,8 m²;3;2;3;2012;Brick;Central thermostat;Fully equipped;;High ceiling Kitchen merged with room;Terrace;Furniture Washing machine Kitchen furniture Stove Dish washer;Steel doors Alarm system Code door lock;70 m;90 m;160 m;90 m;"96,10 €/month
+~ 1,12 €/m²";;
+Vilnius;Žvėrynas;Latvių g.;445 000 € (7 946 €/m²);;56 m²;2;4;4;2022;Brick;Central thermostat;Fully equipped;A+;High ceiling;Storeroom Terrace Closet;Washing machine Furniture Floor heating system Kitchen furniture Dish washer Shower Recuperation;Steel doors Code door lock Video surveillance;290 m;450 m;620 m;570 m;0;;
+Vilnius;Naujamiestis;Vandentiekio g.;"Price decreased 3%
+82 000 € (2 827 €/m²)";30;29,01 m²;1;2;4;1961;Brick;Central;Fully equipped;;New sewage system New electrical installation Private yard Internet Cable television Kitchen merged with room;Balcony Cellar;Kitchen furniture Stove Shower;Steel doors Code door lock;150 m;170 m;310 m;170 m;"44,97 €/month
+~ 1,55 €/m²";;
+Vilnius;Šnipiškės;A. Juozapavičiaus g.;651 000 € (5 918 €/m²);;110 m²;3;2;5;2008;Block house;Central thermostat;Fully equipped;;Private yard Kitchen merged with room;Balcony Parking space Closet;Conditioner Washing machine Furniture Refrigerator Stove Dish washer Shower;Steel doors Alarm system Code door lock Video surveillance Guard;80 m;180 m;270 m;290 m;21;;
+Vilnius;Naujoji Vilnia;Linksmoji g.;109 000 € (1 982 €/m²);60;55 m²;2;5;5;1994;Brick;Central;Fully equipped;;Separate bathroom and WC Internet Cable television;Storeroom Balcony Cellar;Conditioner Bath;Steel doors Code door lock;710 m;310 m;150 m;200 m;"57,75 €/month
+~ 1,05 €/m²";;
+Vilnius;Lazdynai;Kazimiero Jelskio g.;299 000 € (3 583 €/m²);;83,45 m²;3;2;2;2011;Brick;Gas;Fully equipped;;Private entrance High ceiling Two-floor flat Private yard Internet Cable television Kitchen merged with room;Balcony Cellar Parking space;Washing machine Furniture Refrigerator Kitchen furniture Stove Dish washer Shower Bath;;500 m;470 m;610 m;510 m;1;;
+Vilnius;Rasos;Gardino g.;316 848 € (4 200 €/m²);;75,44 m²;4;2;3;2024;Brick;Aerothermal;Partially equipped;;;;;;210 m;420 m;910 m;190 m;6;;
+Vilnius;Rasos;Gardino g.;330 427 € (4 380 €/m²);;75,44 m²;4;2;3;2024;Brick;Aerothermal;Partially equipped;;;;;;210 m;420 m;910 m;190 m;6;;
+Vilnius;Rasos;Gardino g.;312 750 € (3 750 €/m²);;83,4 m²;3;1;3;2024;Brick;Aerothermal;Partially equipped;;;;;;210 m;420 m;910 m;190 m;6;;
+Vilnius;Šeškinė;Laisvės pr.;169 000 € (2 579 €/m²);;65,52 m²;2;3;9;2000;Brick;Central thermostat;Fully equipped;;Separate bathroom and WC Kitchen merged with room;Balcony Cellar Closet;Furniture Washing machine Bath;;170 m;300 m;320 m;170 m;10;;
+Vilnius;Antakalnis;Duburio g.;152 000 € (2 596 €/m²);;58,55 m²;2;3;4;2023;Brick;Gas;Fully equipped;A+;Kitchen merged with room;Balcony;;Steel doors Code door lock;1,6 km;1,7 km;1,4 km;410 m;0;;
+Vilnius;Naujoji Vilnia;Dūmų g.;70 999 € (1 392 €/m²);3;51 m²;2;2;3;1981;Brick;Electric;Fully equipped;;;;;;990 m;1,1 km;610 m;100 m;3;;
+Vilnius;Naujamiestis;Naugarduko g.;61 500 € (2 050 €/m²);41;30 m²;2;3;4;1967 construction, 2008 renovation;Brick;Gas;Not equipped;;;;;;270 m;370 m;200 m;20 m;13;Accommodation, hotel purpose;
+Vilnius;Naujamiestis;S. Konarskio g.;335 000 € (3 779 €/m²);30C;88,65 m²;4;4;4;2023;Brick;Central thermostat;Partially equipped;A+;Two-floor flat New electrical installation;Balcony;Conditioner Recuperation;Steel doors;410 m;110 m;170 m;180 m;20;;
+Vilnius;Žirmūnai;Kareivių g.;"Price decreased 3,9%
+149 000 € (3 170 €/m²)";19;47 m²;1;10;16;2007;Monolithic;Central thermostat;Fully equipped;;Kitchen merged with room;Balcony;Washing machine Furniture Refrigerator Kitchen furniture Stove Bath Recuperation;Steel doors Code door lock;70 m;520 m;140 m;90 m;"30,55 €/month
+~ 0,65 €/m²";;
+Vilnius;Justiniškės;Talino g.;43 999 € (2 750 €/m²);;16 m²;1;2;4;1990;Brick;Central;Fully equipped;;New sewage system New electrical installation Internet Cable television Kitchen merged with room;;Washing machine Furniture Refrigerator Kitchen furniture Stove Plastic pipes;Steel doors Code door lock;200 m;140 m;190 m;270 m;5;;
+Vilnius;Naujoji Vilnia;Linksmoji g.;"Price decreased 5,1%
+129 900 € (1 715 €/m²)";;75,74 m²;4;5;5;1983;Brick;Central;Fully equipped;;Internet Kitchen merged with room;Balcony;Furniture;Code door lock;670 m;440 m;250 m;190 m;"96,19 €/month
+~ 1,27 €/m²";;
+Vilnius;Fabijoniškės;Ateities g.;235 000 € (2 735 €/m²);77;85,93 m²;3;3;6;2003;Brick;Gas;Fully equipped;;High ceiling Private yard Kitchen merged with room;Balcony Terrace Parking space Closet;Washing machine Furniture Refrigerator Kitchen furniture Stove Dish washer Bath;Steel doors Code door lock Video surveillance;540 m;270 m;170 m;130 m;4;;
+Vilnius;Žirmūnai;Kareivių g.;"Price decreased 1,4%
+34 500 € (2 738 €/m²)";11;12,6 m²;1;4;5;1981;Brick;Central;Fully equipped;;Kitchen merged with room;Parking space;Furniture Refrigerator Stove;Code door lock;260 m;600 m;70 m;210 m;"13,48 €/month
+~ 1,07 €/m²";;
+Vilnius;Šiaurės miestelis;Ulonų g.;279 000 € (3 150 €/m²);3;88,56 m²;3;3;6;2008;Brick;Central thermostat;Fully equipped;;;Balcony;Washing machine Furniture Refrigerator Kitchen furniture Stove Shower Bath;Steel doors Code door lock;120 m;510 m;120 m;30 m;"85,02 €/month
+~ 0,96 €/m²";;
+Vilnius;Pilaitė;Sidaronių g.;"Price increased 3,4%
+185 000 € (3 354 €/m²)";;55,15 m²;3;1;1;2024;Brick;Aerothermal;Partially equipped;A+;Private entrance Separate bathroom and WC New sewage system New electrical installation Private yard Kitchen merged with room;Terrace Parking space;Floor heating system;;590 m;730 m;870 m;40 m;1;Accommodation, hotel purpose;
+Vilnius;Santariškės;Santariškių g.;240 000 € (3 411 €/m²);;70,37 m²;3;3;3;2007;Brick;Central thermostat;Fully equipped;;Kitchen merged with room;Balcony;Furniture Bath;Steel doors Code door lock;80 m;2 km;300 m;200 m;"66,15 €/month
+~ 0,94 €/m²";;
+Vilnius;Senamiestis;A. Vienuolio g.;"Price increased 2,8%
+370 000 € (3 102 €/m²)";;119,27 m²;4;4;5;1963 construction, 2003 renovation;Brick;Central thermostat;Fully equipped;;Internet High ceiling Two-floor flat Cable television;;Conditioner Washing machine;Steel doors Code door lock;230 m;230 m;120 m;200 m;20;;
+Vilnius;Naujamiestis;S. Konarskio g.;174 000 € (3 480 €/m²);;50 m²;2;6;9;2002;Brick;Central thermostat;Fully equipped;;;;;;260 m;260 m;360 m;140 m;23;;
+Vilnius;Šnipiškės;Daugėliškio g.;395 000 € (3 969 €/m²);33;99,53 m²;5;1;2;2023;Brick;Central thermostat;Fully equipped;;;;;;350 m;500 m;450 m;80 m;14;;69
+Vilnius;Senamiestis;S. Skapo g.;"Price decreased 4,3%
+133 000 € (4 110 €/m²)";8;32,36 m²;2;1;2;1940;Brick;Gas;Fully equipped;;;;;;610 m;150 m;110 m;170 m;17;;
+Vilnius;Lazdynėliai;Neužmirštuolių g.;255 000 € (2 564 €/m²);3;99,44 m²;3;2;6;1994;Brick;Central, electric;Fully equipped;;Kitchen merged with room;Terrace Parking space;Furniture;Code door lock;340 m;960 m;150 m;170 m;"71,60 €/month
+~ 0,72 €/m²";;
+Vilnius;Žirmūnai;Kareivių g.;149 000 € (3 336 €/m²);2H;44,66 m²;1;1;2;2020;Brick;Gas;Fully equipped;;Private entrance High ceiling;Terrace;Washing machine Furniture Refrigerator Kitchen furniture Stove Shower;;190 m;520 m;410 m;170 m;8;;7
+Vilnius;Naujoji Vilnia;Dūmų g.;"Price decreased 6%
+85 750 € (1 021 €/m²)
+(interested in changing)";3;84 m²;2;2;3;1980;Brick;Electric;Fully equipped;B;New sewage system New electrical installation Kitchen merged with room;Storeroom Parking space;Washing machine Furniture Refrigerator Kitchen furniture Stove Plastic pipes Shower Recuperation;Steel doors Code door lock Video surveillance;990 m;1,1 km;610 m;100 m;3;;
+Vilnius;Naujoji Vilnia;Pramonės g.;47 900 € (1 295 €/m²);;37 m²;2;5;5;1981;Brick;Electric;Fully equipped;;New sewage system New electrical installation Kitchen merged with room;;Washing machine Furniture Kitchen furniture Plastic pipes Shower;Steel doors Code door lock;1 km;1,2 km;1,2 km;170 m;1;;
+Vilnius;Naujoji Vilnia;Pergalės g.;44 000 € (2 750 €/m²);15;16 m²;1;1;4;1972;Brick;Central;Fully equipped;;;;;;190 m;310 m;350 m;160 m;"16,64 €/month
+~ 1,04 €/m²";;
+Vilnius;Verkiai;Verkių g.;285 000 € (3 800 €/m²);;75 m²;2;1;3;2007;Brick;Central thermostat;Fully equipped;;;;;;600 m;540 m;490 m;360 m;5;;
+Vilnius;Senamiestis;A. Rotundo g.;530 000 € (4 629 €/m²);;114,5 m²;4;5;5;1956 construction, 2000 renovation;Brick;Gas;Fully equipped;;;;;;320 m;130 m;250 m;80 m;9;;
+Vilnius;Rasos;Gardino g.;642 020 € (4 700 €/m²);;136,6 m²;5;3;3;2024;Brick;Aerothermal;Partially equipped;;;;;;210 m;420 m;910 m;190 m;6;;
+Vilnius;Senamiestis;Šiaulių g.;860 000 € (4 526 €/m²);3;190 m²;10;1;3;1982;Brick;Central;Fully equipped;;;;;;210 m;380 m;190 m;170 m;28;;
+Vilnius;Šeškinė;Buivydiškių g.;61 000 € (1 828 €/m²);36;33,37 m²;2;5;5;1987 construction, 2020 renovation;Block house;Central thermostat;Partially equipped;;;;;;220 m;350 m;250 m;90 m;6;;
+Vilnius;Markučiai;Manufaktūrų g.;145 000 € (4 143 €/m²);20;35 m²;1;1;5;2019;Brick;Central thermostat;Fully equipped;;Internet Cable television Kitchen merged with room;Balcony;Washing machine Refrigerator Kitchen furniture Bath;Steel doors Alarm system Code door lock Video surveillance;240 m;750 m;30 m;320 m;"14,00 €/month
+~ 0,40 €/m²";;
+Vilnius;Naujamiestis;Vinco Kudirkos g.;490 000 € (3 603 €/m²);;136 m²;4;5;5;1999;Brick;Gas;Fully equipped;;;;;;150 m;420 m;480 m;290 m;5;;
+Vilnius;Markučiai;Subačiaus g.;"Price decreased 1%
+39 300 € (2 456 €/m²)";120;16 m²;1;4;5;1974;Brick;Central;Fully equipped;;Kitchen merged with room;;Washing machine Furniture Bath;Code door lock;80 m;810 m;80 m;90 m;"19,52 €/month
+~ 1,22 €/m²";;
+Vilnius;Žirmūnai;Kareivių g.;189 000 € (2 453 €/m²);2H;77,04 m²;2;2;2;2020;Brick;Gas;Fully equipped;;Private entrance High ceiling;Terrace;;;190 m;520 m;410 m;170 m;8;;3
+Vilnius;Žirmūnai;Kareivių g.;260 262 € (3 350 €/m²);2H;77,69 m²;2;1;2;2020;Brick;Gas;Fully equipped;B;Private entrance High ceiling Two-floor flat Kitchen merged with room;Terrace Closet;Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Dish washer Shower;;190 m;520 m;410 m;170 m;8;;20
+Vilnius;Šnipiškės;Daugėliškio g.;245 000 € (3 585 €/m²);33;68,34 m²;3;3;7;2023;Brick;Central thermostat;Fully equipped;;;;;;350 m;500 m;450 m;80 m;14;;9
+Vilnius;Rasos;Gardino g.;408 035 € (3 950 €/m²);;103,3 m²;4;2;3;2024;Brick;Aerothermal;Partially equipped;;;;;;240 m;460 m;940 m;150 m;6;;
+Vilnius;Lazdynai;Architektų g.;"Price decreased 1,1%
+93 000 € (1 520 €/m²)";;61,2 m²;3;4;5;1970;Block house;Central;Fully equipped;;Separate bathroom and WC Internet Cable television;Storeroom Balcony Cellar;Washing machine Furniture Refrigerator Kitchen furniture Stove Bath;Steel doors Code door lock;270 m;310 m;150 m;90 m;14;;
+Vilnius;Jeruzalė;Rugių g.;144 900 € (3 293 €/m²);;44 m²;2;9;11;2004;Brick;Central thermostat;Fully equipped;;Internet High ceiling;Balcony;Furniture Bath;Steel doors Code door lock;390 m;390 m;240 m;310 m;"35,20 €/month
+~ 0,80 €/m²";;
+Vilnius;Antakalnis;Žolyno g.;33 602 € (1 266 €/m²);8;26,55 m²;1;4;5;1967;Brick;Central;Other;;Sale by auction;;;;390 m;560 m;260 m;100 m;"25,49 €/month
+~ 0,96 €/m²";;91a
+Vilnius;Rasos;Geležinė g.;61 007 € (1 429 €/m²);7;42,7 m²;1;1;1;1940;Wooden house;Other;Other;;Sale by auction;;;;530 m;550 m;860 m;310 m;0;;
+Vilnius;Antakalnis;Žolyno g.;34 371 € (1 336 €/m²);8;25,73 m²;1;3;5;1967;Brick;Central;Other;;Sale by auction;;;;390 m;560 m;260 m;100 m;"24,70 €/month
+~ 0,96 €/m²";;54
+Vilnius;Naujamiestis;J. Jasinskio g.;"Price decreased 3%
+193 000 € (3 514 €/m²)";;54,92 m²;2;3;5;1959;Brick;Central;Fully equipped;;High ceiling Separate bathroom and WC;Balcony Parking space;Bath;Code door lock;10 m;170 m;130 m;130 m;6;;
+Vilnius;Baltupiai;Kazio Ulvydo g.;"Price decreased 1,9%
+159 000 € (3 433 €/m²)";11;46,31 m²;2;2;5;2015;Brick;Central thermostat;Fully equipped;B;New sewage system New electrical installation Private yard Internet Cable television Kitchen merged with room;Balcony;Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Dish washer Shower;Steel doors Code door lock;490 m;640 m;540 m;300 m;0;;
+Vilnius;Žvėrynas;Stumbrų g.;298 000 € (4 791 €/m²);;62,2 m²;4;3;6;2016;Brick;Central thermostat;Fully equipped;;;;;;330 m;480 m;310 m;300 m;"21,15 €/month
+~ 0,34 €/m²";;
+Vilnius;Žirmūnai;M. Katkaus g.;195 000 € (3 337 €/m²);2B;58,44 m²;3;1;9;2017;Brick;Central;Fully equipped;;Private entrance;Terrace Parking space;Conditioner Recuperation;Steel doors Code door lock;210 m;220 m;210 m;100 m;22;;
+Vilnius;Žvėrynas;Sėlių g.;"Price decreased 0,5%
+218 000 € (4 103 €/m²)";72;53,13 m²;2;2;4;2000;Brick;Electric, other;Fully equipped;;Private entrance;Balcony;Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Plastic pipes Shower;Steel doors Alarm system;290 m;370 m;450 m;180 m;1;;
+Vilnius;Naujininkai;Meistrų g.;41 000 € (2 050 €/m²);16;20 m²;1;2;5;1985;Brick;Central;Fully equipped;;New sewage system New electrical installation Kitchen merged with room;;Washing machine Furniture Refrigerator Kitchen furniture Stove Plastic pipes Shower;Steel doors Code door lock;660 m;1,4 km;1,4 km;250 m;3;;
+Vilnius;Naujininkai;Meistrų g.;35 500 € (2 219 €/m²);16;16 m²;1;2;5;1985;Brick;Central;Fully equipped;;New sewage system New electrical installation Kitchen merged with room;;Washing machine Furniture Refrigerator Kitchen furniture Stove Plastic pipes Shower Recuperation;Steel doors Code door lock;660 m;1,4 km;1,4 km;250 m;3;;
+Vilnius;Žirmūnai;Žirmūnų g.;170 000 € (2 675 €/m²);111;63,55 m²;4;4;9;1968;Block house;Central;Fully equipped;;Separate bathroom and WC Internet Cable television;Balcony Parking space Closet;Washing machine Furniture Refrigerator Kitchen furniture Stove Dish washer Bath;Steel doors Code door lock;290 m;640 m;280 m;110 m;"65,46 €/month
+~ 1,03 €/m²";;
+Vilnius;Naujamiestis;J. Basanavičiaus g.;"Price decreased 0,6%
+465 000 € (4 142 €/m²)";16A;112,27 m²;4;3;4;1940;Brick;Central;Fully equipped;;;;;;270 m;190 m;300 m;290 m;27;;
+Vilnius;Senamiestis;Tauro g.;640 000 € (5 395 €/m²);;118,62 m²;4;3;4;1940;Brick;Central thermostat;Fully equipped;;;;;;400 m;300 m;330 m;240 m;16;;
+Vilnius;Markučiai;Manufaktūrų g.;193 000 € (5 676 €/m²);9;34 m²;2;4;5;2023;Brick;Central thermostat;Fully equipped;A+;High ceiling Two-floor flat New sewage system New electrical installation Private yard Internet Cable television Kitchen merged with room;Balcony Parking space;Conditioner Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Plastic pipes Dish washer Recuperation;Steel doors Alarm system Code door lock Video surveillance Guard;170 m;720 m;50 m;250 m;"15,98 €/month
+~ 0,47 €/m²";;
+Vilnius;Šnipiškės;S. Fino g.;195 000 € (3 925 €/m²);;49,68 m²;3;5;6;2024;Brick;Aerothermal;Fully equipped;A+;Internet;Balcony;Furniture Recuperation;Steel doors Alarm system;210 m;510 m;130 m;100 m;15;;
+Vilnius;Pilaitė;Tvankstos g.;220 000 € (3 372 €/m²);;65,24 m²;3;1;4;2018;Brick;Central thermostat;Fully equipped;;;;;;200 m;540 m;120 m;170 m;4;;
+Vilnius;Senamiestis;Bokšto g.;271 000 € (5 588 €/m²);11;48,5 m²;2;1;2;1940;Brick;Central;Fully equipped;;Private yard;Parking space;Furniture;;500 m;50 m;120 m;130 m;"73,24 €/month
+~ 1,51 €/m²";;
+Vilnius;Žirmūnai;Žirmūnų g.;120 000 € (1 888 €/m²);;63,57 m²;3;2;9;1969;Block house;Central;Partially equipped;;;;;;200 m;540 m;210 m;180 m;11;;
+Vilnius;Senamiestis;Vokiečių g.;225 000 € (4 428 €/m²);28;50,81 m²;2;2;4;1940;Brick;Central;Fully equipped;;High ceiling Separate bathroom and WC Kitchen merged with room;;Furniture Plastic pipes;Steel doors Code door lock;140 m;70 m;90 m;20 m;"70,12 €/month
+~ 1,38 €/m²";;
+Vilnius;Lazdynai;Architektų g.;"Price decreased 1,5%
+125 000 € (1 964 €/m²)";182;63,66 m²;3;2;9;1971;Block house;Central;Fully equipped;;Separate bathroom and WC;Balcony Cellar;Bath;Code door lock Video surveillance;120 m;250 m;420 m;380 m;"71,30 €/month
+~ 1,12 €/m²";;
+Vilnius;Žvėrynas;Paribio g.;150 600 € (4 298 €/m²);12;35,04 m²;2;2;7;2024;Monolithic;Central thermostat;Partially equipped;A+;New sewage system New electrical installation Private yard Kitchen merged with room;Terrace;;Code door lock Video surveillance;150 m;300 m;490 m;420 m;3;;
+Vilnius;Žvėrynas;Paribio g.;165 000 € (4 139 €/m²);12;39,86 m²;2;2;7;2024;Monolithic;Central thermostat;Partially equipped;A+;New sewage system New electrical installation Private yard Kitchen merged with room;;;Code door lock Video surveillance;150 m;300 m;490 m;420 m;3;;
+Vilnius;Senamiestis;Bokšto g.;350 000 € (4 487 €/m²);;78 m²;3;2;4;2000;Brick;Central;Fully equipped;;;;;;480 m;20 m;140 m;120 m;28;;
+Vilnius;Senamiestis;Vokiečių g.;"Price decreased 7,2%
+259 000 € (4 903 €/m²)";1;52,83 m²;2;2;4;1958;Brick;Central;Fully equipped;;High ceiling Internet;Storeroom Cellar Closet;Furniture Refrigerator Kitchen furniture Stove Shower;Steel doors Code door lock;310 m;190 m;110 m;40 m;"48,60 €/month
+~ 0,92 €/m²";;
+Vilnius;Naujamiestis;Vasario 16-osios g.;235 000 € (3 620 €/m²);8;64,92 m²;2;1;4;1952;Brick;Central;Fully equipped;;High ceiling New sewage system New electrical installation Private yard Internet Cable television Kitchen merged with room;Storeroom Parking space;Washing machine Furniture Refrigerator Kitchen furniture Plastic pipes Dish washer Shower;Steel doors Alarm system Code door lock;520 m;260 m;290 m;80 m;15;;
+Vilnius;Pilaitė;Karaliaučiaus g.;199 000 € (2 065 €/m²);8;96,36 m²;3;6;7;1996;Monolithic;Central;Fully equipped;;Separate bathroom and WC;Balcony Cellar;Bath;Steel doors Code door lock;170 m;310 m;50 m;80 m;"79,02 €/month
+~ 0,82 €/m²";;
+Vilnius;Senamiestis;Aguonų g.;695 000 € (5 346 €/m²);11;130 m²;4;6;6;2019;Monolithic;Central thermostat;Partially equipped;;;;;;270 m;70 m;310 m;270 m;33;;
+Vilnius;Markučiai;Subačiaus g.;670 000 € (2 500 €/m²);;268 m²;7;3;3;2019;Brick;Central thermostat;Partially equipped;;;;;;460 m;260 m;480 m;140 m;4;;
+Vilnius;Balsiai;Žalčių g.;"Price decreased 4,2%
+115 000 € (2 707 €/m²)";;42,48 m²;2;2;3;1997 construction, 2021 renovation;Brick;Electric;Fully equipped;B;Internet Kitchen merged with room;Balcony;Washing machine;Steel doors;60 m;400 m;820 m;180 m;0;;
+Vilnius;Žirmūnai;Žirmūnų g.;179 000 € (1 432 €/m²);;125 m²;3;2;3;1960;Brick;Central thermostat;Partially equipped;;;;;;190 m;260 m;150 m;100 m;11;;
+Vilnius;Valakampiai;Nemenčinės pl.;505 000 € (5 090 €/m²);45;99,21 m²;3;2;3;2007;Brick;Gas;Fully equipped;;;Balcony Parking space;Fireplace;Code door lock;610 m;1,4 km;360 m;180 m;2;;
+Vilnius;Antakalnis;Švyturio g.;135 000 € (2 923 €/m²);3;46,18 m²;2;2;5;1962;Block house;Central;Fully equipped;;;;;;320 m;440 m;140 m;200 m;"44,33 €/month
+~ 0,96 €/m²";;
+Vilnius;Žirmūnai;Žirmūnų g.;"Price decreased 2,9%
+67 000 € (2 310 €/m²)";68;29 m²;2;2;3;2023;Brick;Central thermostat;Partially equipped;;;;;;190 m;260 m;150 m;100 m;11;;
+Vilnius;Šeškinė;Šeškinės g.;"Price decreased 1%
+101 000 € (2 014 €/m²)";69;50,16 m²;2;3;5;1979;Block house;Central;Fully equipped;;Separate bathroom and WC;Storeroom Balcony Cellar;Washing machine Furniture Refrigerator Kitchen furniture Bath;Code door lock;140 m;220 m;150 m;250 m;"62,20 €/month
+~ 1,24 €/m²";;
+Vilnius;Markučiai;Subačiaus g.;332 500 € (2 500 €/m²);;133 m²;4;2;3;2019;Brick;Central thermostat;Partially equipped;;;;;;460 m;260 m;480 m;140 m;4;;
+Vilnius;Šnipiškės;Kalvarijų g.;249 000 € (1 415 €/m²);;176 m²;6;1;1;1940;Brick;Gas;Fully equipped;;;;;;120 m;450 m;110 m;160 m;18;;
+Vilnius;Naujoji Vilnia;A. Kojelavičiaus g.;"Price decreased 3,6%
+135 000 € (1 425 €/m²)";125;94,76 m²;5;1;2;1940;Brick;Electric, gas;Fully equipped;;Private entrance Separate bathroom and WC New sewage system;;Washing machine Furniture Refrigerator Kitchen furniture Stove Shower;;830 m;1,1 km;610 m;110 m;3;;3
+Vilnius;Senamiestis;J. Savickio g.;"Price decreased 7,1%
+250 000 € (4 091 €/m²)";19;61,11 m²;2;1;4;1940;Brick;Central;Fully equipped;;Private entrance High ceiling New sewage system New electrical installation Internet Kitchen merged with room;;Washing machine Furniture Refrigerator Kitchen furniture Stove Plastic pipes Dish washer Shower Recuperation;Steel doors;580 m;190 m;230 m;130 m;9;;4
+Vilnius;Naujamiestis;Aguonų g.;485 000 € (6 831 €/m²);11;71 m²;3;6;6;2019;Monolithic;Central thermostat;Not equipped;;High ceiling Private yard;Terrace;;Steel doors;270 m;70 m;310 m;270 m;33;;
+Vilnius;Rasos;Liepkalnio g.;32 222 € (533 €/m²);58;60,47 m²;3;1;1;1940;Wooden house;Solid fuel;Other;;Sale by auction;;;;440 m;440 m;830 m;160 m;5;;2
+Vilnius;Senamiestis;Gynėjų g.;"Price decreased 2,2%
+269 000 € (3 940 €/m²)";14;68,27 m²;2;4;9;2006;Brick;Central thermostat;Fully equipped;;;;;;490 m;100 m;340 m;140 m;"59,39 €/month
+~ 0,87 €/m²";;
+Vilnius;Senamiestis;Totorių g.;152 000 € (5 067 €/m²);;30 m²;1;1;3;1950;Brick;Central;Other;;Private yard;;;;320 m;170 m;250 m;210 m;33;;
+Vilnius;Žemieji Paneriai;Savanorių pr.;"Price decreased 6,7%
+70 000 € (1 944 €/m²)";224;36 m²;2;5;5;1976;Brick;Central;Fully equipped;;Cable television;Storeroom;Washing machine Furniture Refrigerator Kitchen furniture Stove Bath;;1,6 km;530 m;110 m;60 m;"40,32 €/month
+~ 1,12 €/m²";;56
+Vilnius;Vilkpėdė;Eigulių g.;"Price decreased 2,1%
+194 900 € (4 200 €/m²)";7;46,4 m²;3;5;7;2023;Brick;Central thermostat;Partially equipped;A+;New sewage system New electrical installation Kitchen merged with room;Balcony;Floor heating system Recuperation;Steel doors Video surveillance Code door lock;810 m;710 m;490 m;420 m;2;;
+Vilnius;Naujamiestis;Eigulių g.;"Price decreased 2,1%
+194 900 € (4 200 €/m²)";7;46,4 m²;2;5;7;2023;Brick;Central thermostat;Partially equipped;A+;New sewage system New electrical installation Kitchen merged with room;Balcony;Floor heating system Recuperation;Steel doors Video surveillance Code door lock;810 m;710 m;490 m;420 m;2;;
+Vilnius;Senamiestis;T. Vrublevskio g.;515 000 € (6 438 €/m²);;80 m²;3;4;5;1883 construction, 2020 renovation;Brick;Gas;Fully equipped;;High ceiling New sewage system New electrical installation Internet Kitchen merged with room;Balcony;Furniture Floor heating system Kitchen furniture;Steel doors Code door lock;460 m;260 m;310 m;70 m;14;;
+Vilnius;Užupis;Malūnų g.;189 000 € (4 345 €/m²);;43,5 m²;2;1;2;1940;Brick;Gas, solid fuel;Fully equipped;;Private entrance High ceiling;Terrace Parking space;;;260 m;200 m;170 m;90 m;17;;
+Vilnius;Žvėrynas;Paribio g.;188 100 € (3 915 €/m²);;48,05 m²;2;2;7;2023;Monolithic;Central thermostat;Partially equipped;A+;New sewage system New electrical installation Kitchen merged with room;Balcony Closet;;Steel doors Code door lock Video surveillance;150 m;300 m;490 m;420 m;3;;
+Vilnius;Žvėrynas;Paribio g.;190 000 € (4 468 €/m²);;42,52 m²;2;3;7;2023;Monolithic;Central thermostat;Partially equipped;A+;New sewage system New electrical installation Private yard Kitchen merged with room;Balcony;;Steel doors Code door lock Video surveillance;150 m;300 m;490 m;420 m;3;;
+Vilnius;Senamiestis;K. Vanagėlio g.;543 405 € (8 500 €/m²);;63,93 m²;3;4;4;2025;Brick;Central thermostat;Partially equipped;;;;;;140 m;90 m;180 m;130 m;13;;
+Vilnius;Senamiestis;K. Vanagėlio g.;"Price increased 6,7%
+658 640 € (8 000 €/m²)";;82,33 m²;3;3;4;2025;Brick;Central thermostat;Partially equipped;;;;;;140 m;90 m;180 m;130 m;13;;
+Vilnius;Senamiestis;K. Vanagėlio g.;560 175 € (7 500 €/m²);;74,69 m²;3;2;4;2025;Brick;Central thermostat;Partially equipped;;;;;;140 m;90 m;180 m;130 m;13;;
+Vilnius;Senamiestis;K. Vanagėlio g.;283 402 € (6 200 €/m²);;45,71 m²;2;1;4;2025;Brick;Central thermostat;Partially equipped;;;;;;140 m;90 m;180 m;130 m;13;;
+Vilnius;Senamiestis;K. Vanagėlio g.;420 615 € (6 500 €/m²);;64,71 m²;3;2;4;2025;Brick;Central thermostat;Partially equipped;;;;;;180 m;80 m;250 m;70 m;14;;
+Vilnius;Filaretai;Peteliškių g.;"Price decreased 2,2%
+220 000 € (4 231 €/m²)";6;52 m²;1;4;5;1979 construction, 2016 renovation;Brick;Central;Fully equipped;;New sewage system New electrical installation Internet Cable television Kitchen merged with room;Balcony Cellar Closet;Conditioner Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Plastic pipes Dish washer Shower;Steel doors Code door lock;510 m;240 m;140 m;90 m;"31,20 €/month
+~ 0,60 €/m²";;
+Vilnius;Senamiestis;K. Vanagėlio g.;822 240 € (8 000 €/m²);;102,78 m²;3;3;4;2025;Brick;Central thermostat;Partially equipped;;;;;;180 m;80 m;250 m;70 m;14;;
+Vilnius;Senamiestis;K. Vanagėlio g.;502 435 € (8 500 €/m²);;59,11 m²;2;4;4;2025;Brick;Central thermostat;Partially equipped;;;;;;180 m;80 m;250 m;70 m;14;;
+Vilnius;Senamiestis;K. Vanagėlio g.;554 550 € (7 500 €/m²);;73,94 m²;3;3;4;2025;Brick;Central thermostat;Partially equipped;;;;;;180 m;80 m;250 m;70 m;14;;
+Vilnius;Senamiestis;K. Vanagėlio g.;298 350 € (6 500 €/m²);;45,9 m²;2;2;4;2025;Brick;Central thermostat;Partially equipped;;;;;;180 m;80 m;250 m;70 m;14;;
+Vilnius;Senamiestis;K. Vanagėlio g.;407 165 € (5 500 €/m²);;74,03 m²;2;1;4;2025;Brick;Central thermostat;Partially equipped;;;;;;180 m;80 m;250 m;70 m;14;;
+Vilnius;Senamiestis;K. Vanagėlio g.;"Price increased 3,4%
+401 100 € (6 000 €/m²)";;66,85 m²;3;1;4;2025;Brick;Central thermostat;Partially equipped;;;;;;180 m;80 m;250 m;70 m;14;;
+Vilnius;Senamiestis;Pranciškonų g.;"Price decreased 1,6%
+369 000 € (4 671 €/m²)";4A;79 m²;3;1;2;1940;Brick;Central thermostat;Fully equipped;;Private entrance High ceiling Two-floor flat New sewage system New electrical installation Private yard Kitchen merged with room;Terrace Cellar Parking space;Washing machine Furniture Refrigerator Floor heating system Kitchen furniture Stove Fireplace Plastic pipes Shower Bath;Steel doors Code door lock;110 m;160 m;140 m;120 m;23;;
+Vilnius;Senamiestis;Gedimino pr.;990 000 € (6 778 €/m²);;146,07 m²;4;2;3;1940;Brick;Gas;Fully equipped;;High ceiling New electrical installation;Balcony Closet;Furniture;Steel doors Alarm system Code door lock Video surveillance;420 m;160 m;130 m;130 m;"157,76 €/month
+~ 1,08 €/m²";;
+Vilnius;Viršuliškės;Viršilų g.;190 000 € (4 901 €/m²);6;38,77 m²;2;18;20;2023;Monolithic;Central thermostat;Fully equipped;A+;High ceiling New electrical installation Kitchen merged with room;Balcony Parking space;Furniture Kitchen furniture Stove Plastic pipes Shower Recuperation;Steel doors;380 m;280 m;680 m;190 m;12;;
+Vilnius;Žvėrynas;Vytauto g.;153 955 € (2 164 €/m²);48;71,13 m²;4;2;2;1940;Brick;Other;Other;;Sale by auction;;;;110 m;180 m;320 m;130 m;3;;9
+Vilnius;Naujamiestis;Savanorių pr.;140 000 € (2 465 €/m²);37;56,79 m²;3;3;5;1962;Block house;Central;Fully equipped;;Internet;Balcony;Furniture Refrigerator Kitchen furniture Stove Bath;Steel doors;310 m;100 m;120 m;110 m;"40,89 €/month
+~ 0,72 €/m²";;
+Vilnius;Santariškės;J. Franko g.;415 000 € (2 746 €/m²);;151,12 m²;5;3;4;2006;Brick;Central thermostat;Fully equipped;;High ceiling Two-floor flat Kitchen merged with room;Storeroom Parking space Closet;Conditioner Furniture Floor heating system;Steel doors Alarm system Code door lock;180 m;1,8 km;120 m;330 m;2;;
+Vilnius;Fabijoniškės;Ukmergės g.;"Price increased 48,6%
+89 000 € (3 296 €/m²)";409;27 m²;2;1;2;1940;Carcass house;Solid fuel;Not equipped;;;;;;690 m;1,4 km;920 m;450 m;0;;
+Vilnius;Šnipiškės;Krokuvos g.;"Price decreased 8,7%
+209 000 € (3 128 €/m²)";;66,82 m²;2;6;9;1999;Brick;Central thermostat;Fully equipped;C;;;;;50 m;400 m;250 m;260 m;"44,10 €/month
+~ 0,66 €/m²";;
+Vilnius;Šnipiškės;Konstitucijos pr.;324 000 € (5 438 €/m²);15;59,58 m²;2;8;29;2019;Monolithic;Electric, central thermostat;Fully equipped;A+;Private entrance High ceiling New sewage system New electrical installation Private yard Internet Cable television Kitchen merged with room;Storeroom Balcony Closet;Conditioner Furniture Refrigerator Floor heating system Kitchen furniture Stove Dish washer Shower Recuperation;Steel doors Code door lock Video surveillance Guard;320 m;110 m;280 m;90 m;"55,41 €/month
+~ 0,93 €/m²";;
+Vilnius;Lazdynai;Architektų g.;"Price decreased 1,9%
+105 000 € (1 651 €/m²)";;63,61 m²;3;1;9;1970;Block house;Central;Fully equipped;;;;;;150 m;350 m;170 m;90 m;"68,70 €/month
+~ 1,08 €/m²";;
+Vilnius;Antakalnis;V. Grybo g.;6 084 € (452 €/m²);40;13,45 m²;1;3;3;1940;Brick;Other;Other;;Sale by auction;;;;190 m;420 m;310 m;390 m;9;;
+Vilnius;Fabijoniškės;Liongino Baliukevičiaus-Dzūko g.;450 000 € (1 928 €/m²);;233,38 m²;6;1;3;1993 construction, 2011 renovation;Monolithic;Gas;Fully equipped;;Internet High ceiling Two-floor flat Cable television;Balcony Terrace Cellar Closet;Furniture Conditioner Washing machine Bath;Steel doors Alarm system;510 m;490 m;370 m;100 m;4;;
+Vilnius;Naujamiestis;Vytenio g.;"Price decreased 1,4%
+69 000 € (3 722 €/m²)";;18,54 m²;1;2;5;1957;Brick;Central;Fully equipped;;;;;;140 m;160 m;280 m;230 m;16;;
+Vilnius;Verkiai;Verkių g.;19 292 € (479 €/m²);69;40,3 m²;2;1;1;1938;Brick;Solid fuel;Other;;Sale by auction;;;;1,2 km;1,5 km;1,5 km;470 m;0;;7
+Vilnius;Verkiai;Verkių g.;39 251 € (952 €/m²);78;41,22 m²;2;1;1;1940;Brick;Solid fuel;Other;;Sale by auction;;;;800 m;720 m;1 km;310 m;0;;1
+Vilnius;Senamiestis;Šv. Stepono g.;38 088 € (1 417 €/m²);36A;26,87 m²;1;2;2;1940;Brick;Solid fuel;Other;;Sale by auction;;;;360 m;170 m;190 m;100 m;42;;2A
+Vilnius;Naujoji Vilnia;Strielčiukų g.;18 974 € (546 €/m²);27;34,74 m²;2;1;1;1940;Wooden house;Solid fuel;Other;;Sale by auction;;;;1,3 km;1,3 km;1,3 km;730 m;0;;5
+Vilnius;Senamiestis;M. Daukšos g.;26 680 € (389 €/m²);8A;68,61 m²;1;2;2;1940;Brick;Other;Other;;Sale by auction;;;;180 m;100 m;250 m;80 m;14;;-
+Vilnius;Naujamiestis;Šaltinių g.;289 000 € (3 350 €/m²);;86,28 m²;3;4;5;1940;Brick;Gas;Fully equipped;;;;;;220 m;100 m;200 m;290 m;33;;
+Vilnius;Naujoji Vilnia;Tremtinių g.;"Price decreased 3,9%
+49 500 € (1 238 €/m²)";;40 m²;2;1;1;1940;Wooden house;Solid fuel;Fully equipped;;;;;;480 m;570 m;60 m;70 m;5;;
+Vilnius;Pilaitė;Vydūno g.;"Price decreased 3,3%
+145 000 € (1 869 €/m²)";;77,58 m²;4;6;7;1997;Block house;Central;Partially equipped;;;Storeroom Balcony Cellar;;Steel doors Code door lock;150 m;280 m;10 m;60 m;"72,93 €/month
+~ 0,94 €/m²";;
+Vilnius;Senamiestis;Vokiečių g.;225 000 € (4 797 €/m²);28;46,9 m²;2;2;4;1956;Brick;Central;Fully equipped;;Kitchen merged with room;;Shower;Steel doors Alarm system Code door lock;140 m;70 m;90 m;20 m;"64,72 €/month
+~ 1,38 €/m²";;
+Vilnius;Antakalnis;P. Vileišio g.;277 025 € (2 500 €/m²);14A;110,81 m²;4;1;2;1940;Brick;Other;Other;;Sale by auction;;;;520 m;190 m;310 m;170 m;9;;
+Vilnius;Senamiestis;Trakų g.;"Price decreased 8,9%
+500 000 € (5 000 €/m²)";;100 m²;3;2;3;2014;Brick;Gas;Fully equipped;;;;;;30 m;180 m;190 m;150 m;26;;
+Vilnius;Antakalnis;P. Vileišio g.;36 140 € (2 100 €/m²);30;17,21 m²;1;1;2;1940;Log house;Other;Other;;Sale by auction;;;;200 m;360 m;140 m;280 m;12;;8
+Vilnius;Senamiestis;Didžioji g.;300 000 € (5 556 €/m²);;54 m²;2;2;4;1860 construction, 2004 renovation;Brick;Central;Fully equipped;;Kitchen merged with room;;;;210 m;180 m;160 m;150 m;26;;
+Vilnius;Senamiestis;Gedimino pr.;990 000 € (6 778 €/m²);;146,07 m²;4;2;3;1940;Brick;Gas;Fully equipped;;High ceiling New electrical installation;Balcony Closet;Furniture;Steel doors Alarm system Code door lock Video surveillance;420 m;160 m;130 m;130 m;"157,76 €/month
+~ 1,08 €/m²";;
+Vilnius;Viršuliškės;Viršilų g.;190 000 € (4 901 €/m²);6;38,77 m²;2;18;20;2023;Monolithic;Central thermostat;Fully equipped;A+;High ceiling New electrical installation Kitchen merged with room;Balcony Parking space;Furniture Kitchen furniture Stove Plastic pipes Shower Recuperation;Steel doors;380 m;280 m;680 m;190 m;12;;
+Vilnius;Žvėrynas;Vytauto g.;153 955 € (2 164 €/m²);48;71,13 m²;4;2;2;1940;Brick;Other;Other;;Sale by auction;;;;110 m;180 m;320 m;130 m;3;;9
+Vilnius;Naujamiestis;Savanorių pr.;140 000 € (2 465 €/m²);37;56,79 m²;3;3;5;1962;Block house;Central;Fully equipped;;Internet;Balcony;Furniture Refrigerator Kitchen furniture Stove Bath;Steel doors;310 m;100 m;120 m;110 m;"40,89 €/month
+~ 0,72 €/m²";;
+Vilnius;Santariškės;J. Franko g.;415 000 € (2 746 €/m²);;151,12 m²;5;3;4;2006;Brick;Central thermostat;Fully equipped;;High ceiling Two-floor flat Kitchen merged with room;Storeroom Parking space Closet;Conditioner Furniture Floor heating system;Steel doors Alarm system Code door lock;180 m;1,8 km;120 m;330 m;2;;
+Vilnius;Fabijoniškės;Ukmergės g.;"Price increased 48,6%
+89 000 € (3 296 €/m²)";409;27 m²;2;1;2;1940;Carcass house;Solid fuel;Not equipped;;;;;;690 m;1,4 km;920 m;450 m;0;;
+Vilnius;Šnipiškės;Krokuvos g.;"Price decreased 8,7%
+209 000 € (3 128 €/m²)";;66,82 m²;2;6;9;1999;Brick;Central thermostat;Fully equipped;C;;;;;50 m;400 m;250 m;260 m;"44,10 €/month
+~ 0,66 €/m²";;
+Vilnius;Šnipiškės;Konstitucijos pr.;324 000 € (5 438 €/m²);15;59,58 m²;2;8;29;2019;Monolithic;Electric, central thermostat;Fully equipped;A+;Private entrance High ceiling New sewage system New electrical installation Private yard Internet Cable television Kitchen merged with room;Storeroom Balcony Closet;Conditioner Furniture Refrigerator Floor heating system Kitchen furniture Stove Dish washer Shower Recuperation;Steel doors Code door lock Video surveillance Guard;320 m;110 m;280 m;90 m;"55,41 €/month
+~ 0,93 €/m²";;
+Vilnius;Lazdynai;Architektų g.;"Price decreased 1,9%
+105 000 € (1 651 €/m²)";;63,61 m²;3;1;9;1970;Block house;Central;Fully equipped;;;;;;150 m;350 m;170 m;90 m;"68,70 €/month
+~ 1,08 €/m²";;
+Vilnius;Antakalnis;V. Grybo g.;6 084 € (452 €/m²);40;13,45 m²;1;3;3;1940;Brick;Other;Other;;Sale by auction;;;;190 m;420 m;310 m;390 m;9;;
+Vilnius;Fabijoniškės;Liongino Baliukevičiaus-Dzūko g.;450 000 € (1 928 €/m²);;233,38 m²;6;1;3;1993 construction, 2011 renovation;Monolithic;Gas;Fully equipped;;Internet High ceiling Two-floor flat Cable television;Balcony Terrace Cellar Closet;Furniture Conditioner Washing machine Bath;Steel doors Alarm system;510 m;490 m;370 m;100 m;4;;
+Vilnius;Naujamiestis;Vytenio g.;"Price decreased 1,4%
+69 000 € (3 722 €/m²)";;18,54 m²;1;2;5;1957;Brick;Central;Fully equipped;;;;;;140 m;160 m;280 m;230 m;16;;
+Vilnius;Verkiai;Verkių g.;19 292 € (479 €/m²);69;40,3 m²;2;1;1;1938;Brick;Solid fuel;Other;;Sale by auction;;;;1,2 km;1,5 km;1,5 km;470 m;0;;7
+Vilnius;Verkiai;Verkių g.;39 251 € (952 €/m²);78;41,22 m²;2;1;1;1940;Brick;Solid fuel;Other;;Sale by auction;;;;800 m;720 m;1 km;310 m;0;;1
+Vilnius;Senamiestis;Šv. Stepono g.;38 088 € (1 417 €/m²);36A;26,87 m²;1;2;2;1940;Brick;Solid fuel;Other;;Sale by auction;;;;360 m;170 m;190 m;100 m;42;;2A
+Vilnius;Naujoji Vilnia;Strielčiukų g.;18 974 € (546 €/m²);27;34,74 m²;2;1;1;1940;Wooden house;Solid fuel;Other;;Sale by auction;;;;1,3 km;1,3 km;1,3 km;730 m;0;;5
+Vilnius;Senamiestis;M. Daukšos g.;26 680 € (389 €/m²);8A;68,61 m²;1;2;2;1940;Brick;Other;Other;;Sale by auction;;;;180 m;100 m;250 m;80 m;14;;-
+Vilnius;Naujamiestis;Šaltinių g.;289 000 € (3 350 €/m²);;86,28 m²;3;4;5;1940;Brick;Gas;Fully equipped;;;;;;220 m;100 m;200 m;290 m;33;;
+Vilnius;Naujoji Vilnia;Tremtinių g.;"Price decreased 3,9%
+49 500 € (1 238 €/m²)";;40 m²;2;1;1;1940;Wooden house;Solid fuel;Fully equipped;;;;;;480 m;570 m;60 m;70 m;5;;
+Vilnius;Pilaitė;Vydūno g.;"Price decreased 3,3%
+145 000 € (1 869 €/m²)";;77,58 m²;4;6;7;1997;Block house;Central;Partially equipped;;;Storeroom Balcony Cellar;;Steel doors Code door lock;150 m;280 m;10 m;60 m;"72,93 €/month
+~ 0,94 €/m²";;
+Vilnius;Senamiestis;Vokiečių g.;225 000 € (4 797 €/m²);28;46,9 m²;2;2;4;1956;Brick;Central;Fully equipped;;Kitchen merged with room;;Shower;Steel doors Alarm system Code door lock;140 m;70 m;90 m;20 m;"64,72 €/month
+~ 1,38 €/m²";;
+Vilnius;Antakalnis;P. Vileišio g.;277 025 € (2 500 €/m²);14A;110,81 m²;4;1;2;1940;Brick;Other;Other;;Sale by auction;;;;520 m;190 m;310 m;170 m;9;;
+Vilnius;Senamiestis;Trakų g.;"Price decreased 8,9%
+500 000 € (5 000 €/m²)";;100 m²;3;2;3;2014;Brick;Gas;Fully equipped;;;;;;30 m;180 m;190 m;150 m;26;;
+Vilnius;Antakalnis;P. Vileišio g.;36 140 € (2 100 €/m²);30;17,21 m²;1;1;2;1940;Log house;Other;Other;;Sale by auction;;;;200 m;360 m;140 m;280 m;12;;8
+Vilnius;Senamiestis;Didžioji g.;300 000 € (5 556 €/m²);;54 m²;2;2;4;1860 construction, 2004 renovation;Brick;Central;Fully equipped;;Kitchen merged with room;;;;210 m;180 m;160 m;150 m;26;;
